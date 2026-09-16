@@ -2,6 +2,10 @@
 
 > Always looking for an excellent adventure with my best buddy [@ttlogan](https://github.com/ttlogan) — He is Most triumphant!
 
+![Bill & Ted's Excellent Adventure](https://raw.githubusercontent.com/bspreston-esq/bspreston-esq/main/bill-teds-excellent-adventure.jpg)
+
+> "Dude, did he just say checkout my python?"
+
 ## About
 
 - 🧙 Working with the [QUADS](https://quads.dev) ecosystem: bare-metal infrastructure automation, Redfish/bare-metal management ([badfish](https://github.com/quadsproject/badfish)), the infrastructure deployment time machine ([quads](https://github.com/quadsproject/quads)), multi-server client ([quads-client](https://github.com/quadsproject/quads-client)), idle-GPU inference proxy ([qiip](https://github.com/quadsproject/qiip)), and Nagios alert tooling ([mozzo](https://github.com/sadsfae/mozzo))
