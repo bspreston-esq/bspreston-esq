@@ -1,6 +1,6 @@
 # William Stanley Preston, Esq. 🎩
 
-> Always looking for an excellent adventure with my best buddy [@ttlogan](https://github.com/ttlogan) — He is Most triumphant!
+> Always looking for an excellent adventure with my best buddy Ted Logan! He is Most triumphant!
 
 ![Bill & Ted's Excellent Adventure](https://raw.githubusercontent.com/bspreston-esq/bspreston-esq/main/bill-teds-excellent-adventure.jpg)
 
@@ -9,7 +9,7 @@
 ## About
 
 - 🧙 Working with the [QUADS](https://quads.dev) ecosystem: bare-metal infrastructure automation, Redfish/bare-metal management ([badfish](https://github.com/quadsproject/badfish)), the infrastructure deployment time machine ([quads](https://github.com/quadsproject/quads)), multi-server client ([quads-client](https://github.com/quadsproject/quads-client)), idle-GPU inference proxy ([qiip](https://github.com/quadsproject/qiip)), and Nagios alert tooling ([mozzo](https://github.com/sadsfae/mozzo))
-- 🤝 Adventure buddy: [@ttlogan](https://github.com/ttlogan) — Most triumphant!
+- 🤝 Adventure buddy: Ted Logan — Most triumphant!
 
 [![Profile views](https://visitor-badge.laobi.icu/badge?page_id=bspreston-esq.bspreston-esq)](https://github.com/bspreston-esq)
 
