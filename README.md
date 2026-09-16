@@ -22,14 +22,14 @@
 
 ## GitHub Grade
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bspreston-esq&show_icons=true&theme=dark&custom_title=GitHub%20Stats)
+![GitHub Stats](https://github-readme-stats-rho-pink-42.vercel.app/api?username=bspreston-esq&show_icons=true&theme=dark&custom_title=GitHub%20Stats)
 
 ## Language Usage Meter
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bspreston-esq&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats-rho-pink-42.vercel.app/api/top-langs/?username=bspreston-esq&layout=compact&theme=dark)
 
 ## Contributions
 
 ![Streak Stats](https://streak-stats.demolab.com?user=bspreston-esq&theme=dark)
 
-![Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=bspreston-esq&theme=react-dark)
+![Contributions Heatmap](https://ghchart.rshah.org/bspreston-esq)
