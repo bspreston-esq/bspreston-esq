@@ -31,9 +31,3 @@
 ## Language Usage Meter
 
 ![Top Languages](https://github-readme-stats-rho-pink-42.vercel.app/api/top-langs/?username=bspreston-esq&layout=compact&theme=dark)
-
-## Contributions
-
-![Streak Stats](https://streak-stats.demolab.com?user=bspreston-esq&theme=dark)
-
-![Contributions Heatmap](https://ghchart.rshah.org/bspreston-esq)
